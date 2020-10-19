@@ -1,2 +1,2 @@
-# bounceOffAlgorithm-master
-bounceOff/collision
+# bounceOffAlgorithm
+Algorithm to bounce off two objects
